@@ -14,7 +14,7 @@ customers with what can be possible through API automation.
 The steps below might seem intimidating however the configuration is
 quite straight forward and easy to get done.
 
-## Pre-requisites
+### Pre-requisites
 
 The following pre-requisites are required to leverage this solution.
 
@@ -26,7 +26,7 @@ The following pre-requisites are required to leverage this solution.
 
 - Rest APIv2 Token for Endpoint /api/v2/nsbrowser/invite
 
-## Instructions
+### Instructions
 
 These instruction will cover the following main aspects of deploying the
 solution
